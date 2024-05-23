@@ -1,0 +1,43 @@
+.containerAlert{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    background-color: #072C3F;
+    color: white;
+    font-size: 12px;
+}
+
+.tableAlert{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloAlert{
+    padding-left: 100px;
+}
+
+.textAlert{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.reportar{
+    background-color: red;
+    border-radius: 4%;
+    color: white ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 100px;
+}
+
+.reportar:hover {
+    background-color: rgba(182, 0, 0, 0.559);
+    border-radius: 4%;
+    color: white ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
